@@ -1,0 +1,27 @@
+{
+    "name": "son/exemplo",
+     "require": {
+        "php": ">=5.3"
+    },
+    "require": {
+        "respect/rest": "0.5.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7@stable",
+        "squizlabs/php_codesniffer": "dev-master"
+    },
+    "minimum-stability": "alpha",
+    "authors": [
+        {
+            "name": "Wesley Willians",
+            "email": "wesleywillians@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "" : "src/" }
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
