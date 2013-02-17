@@ -7,3 +7,6 @@ This is a template for new PHP Projects using:
 * PHPUnit
 * PHP Code Sniffer
 * Respect\Rest
+
+
+- Credits to people from: https://github.com/iMastersDev/oportunidades 
